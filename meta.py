@@ -12,7 +12,7 @@ polygon is not aligned with the radial axes.
 """
 import numpy as np
 
-import Tkinter
+import tkinter
 import matplotlib
 import matplotlib.backends.backend_tkagg
 import matplotlib.pyplot as plt
