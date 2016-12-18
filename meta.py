@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """
 sample of creating a radar chart (a.k.a. a spider or star chart) [1]_.
 
